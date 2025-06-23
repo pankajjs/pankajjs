@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently contributing in [RealDevSquad](https://realdevsquad.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@pankajjs](https://medium.com/@pankajjs)
+<!-- - 📝 I regularly write articles on [https://medium.com/@pankajjs](https://medium.com/@pankajjs) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
