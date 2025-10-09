@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 
 **About me**
-- 🔭 I’m currently contributing in [RealDevSquad](https://realdevsquad.com/)
+- SDE | Freelancing
+- Ex. @[RealDevSquad](https://realdevsquad.com/)
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@pankajjs](https://medium.com/@pankajjs) -->
 
