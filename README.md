@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 
 **About me**
-- SDE | Freelancing
+- SDE
 - Ex. @[RealDevSquad](https://realdevsquad.com/)
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@pankajjs](https://medium.com/@pankajjs) -->
@@ -12,7 +12,13 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="20" width="20"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="20" width="20"/></code>
 
-<!-- # Blog posts -->
+<!-- # Blog posts 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajjs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars" alt="Pankaj's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajjs&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
+-->
+
+**Projects** 
+- springlizr
+  - A command-line tool built using javascript to create spring boot project
+  - [github](https://github.com/pankajjs/springlizr), [npm](https://www.npmjs.com/package/springlizr)
